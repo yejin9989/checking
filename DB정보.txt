@@ -1,0 +1,6 @@
+sign in registrar database details
+database region:eu-west-1
+DB instance Identifier: SignInRegistrar
+master username: admin
+master password: mypassword
+link: signinregistrar.cfuufzqgzb3t.eu-west-1.rds.amazonaws.com

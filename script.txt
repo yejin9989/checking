@@ -1,0 +1,10 @@
+1
+Before we make a presentation, let me introduce the contents of our presentation first. There are four main table of contents, and we will present the project's problems in the first part. And we will present about implementation it’s result in the second part, customer experience in the third part, and conclusion in the fourth part.
+
+
+2
+Here we have a use case diagram that we created for our application. User Requirements were identified through consultation with our clients. Here we have the User actor on the left, they should be able to sign into their profile and view their attendance and the map for evacuation. The staff and admin actors can view and change the evacuation plans. The staff actor can view other user’s attendance records. The admin actor can update the evacuation plan along with adding staff and users.
+
+10:15
+
+11:30
